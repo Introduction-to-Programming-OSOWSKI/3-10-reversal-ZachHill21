@@ -1,4 +1,4 @@
-def reversal(w):
+def reversal():
     for i in range (len(w)- 1, -1, -1):
-        result += s[i]
+        return s[i]
 print(reversal("Potato"))
